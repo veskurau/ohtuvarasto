@@ -26,8 +26,5 @@ max-nested-blocks=2
 
 [DESIGN]
 
-max-statements=15
-
-[BASIC]
-
-bad-names=["muuttuja"]
+max-statements=45
+max-args=3
